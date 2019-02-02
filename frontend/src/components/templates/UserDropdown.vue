@@ -8,7 +8,7 @@
             <i class="fa fa-angle-down"></i>
         </div>
         <div class="user-dropdown-content">
-            <a href> <i class="fa fa-cogs">Administração</i> </a>
+            <router-link to="/admin"> <i class="fa fa-cogs">Administração</i> </router-link>
             <a href> <i class="fa fa-sign-out">Sair</i> </a>
         </div>
     </div>

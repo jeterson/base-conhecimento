@@ -1,5 +1,5 @@
 <template>
-    <div class="class-page-title">
+    <div class="page-title">
         <h1>
             <i v-if="icon" :class="icon"></i>
             {{ main }}
